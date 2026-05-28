@@ -100,6 +100,10 @@
 		<data>
 		AnsGXCOBcw2OR4DnRey9IdsZNPo=
 		</data>
+		<key>Resources/qt_lg.qm</key>
+		<data>
+		WZko1eCEhIAYdsPhx101jmQKBhY=
+		</data>
 		<key>Resources/qt_lt.qm</key>
 		<data>
 		4idmpJYS95FWxVDYPGwjA0XdpDM=
@@ -329,6 +333,13 @@
 			<key>hash2</key>
 			<data>
 			HSVLU14cs1y8rYIQsVuJ9EiBWYJr81tFBGliY90QL6M=
+			</data>
+		</dict>
+		<key>Resources/qt_lg.qm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a6ZoUB9MBAxm2hvcAiNi2jyM9mPaaqSEy9tZkCjamO0=
 			</data>
 		</dict>
 		<key>Resources/qt_lt.qm</key>
